@@ -100,7 +100,7 @@
 
 ## 시연 영상
 
-[![시연 영상 썸네일](images/thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
+[![시연 영상 썸네일](https://www.hufs.ac.kr/sites/hufs/images/sub/tab-boo-img.png)](https://youtu.be/KkcQon8Jiig?si=3wZz-xQD61eu2abD)
 
 > 클릭하면 YouTube 영상으로 이동합니다.  
 > 또는 `videos/` 폴더에 직접 영상 파일을 업로드하고 링크를 걸 수도 있습니다.
